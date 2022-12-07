@@ -8,23 +8,23 @@ I have a V10 (possibly V1.0)
 
 Power LED - PA5 
 
-CAN1
+- CAN1
   CAN1_RX  PB8(61) 
   CAN1_TX  PB9(62)
 
-CAN2
+- CAN2
   CAN2_RX  PB12(33)   
   CAN2_TX  PB13(34)  
 
-USB   
+- USB   
   OTG_HS_DM (35)
   OTG_HS_DP (36)
 
-2 pin header
+- 2 pin header
   1  PC2 (58)
   2  PC3
   
-5 Pin header 
+- 5 Pin header 
   1 JTMS-SWDIO (46)
   2 JTCK-SWCLK (49) 
   3 NRST (7)
