@@ -7,7 +7,7 @@ I have a V10 (possibly V1.0)
 - ![image](https://user-images.githubusercontent.com/202906/206101957-122900dd-355b-4a2c-a94b-1589caf2a225.png)
 ![20221205_135431](https://user-images.githubusercontent.com/202906/206123658-cdc6560a-6f11-4b73-b314-c40d167faf52.jpg)
 
-Power LED - PA5 
+`Power LED - PA5 
 
 - CAN1
   CAN1_RX  PB8(61) 
@@ -22,8 +22,8 @@ Power LED - PA5
   OTG_HS_DP (36)
 
 - 2 pin header
-  1  PC2 (58)
-  2  PC3
+  1  PB6 (58)
+  2  PB7 (59)
   
 - 5 Pin header 
   1 JTMS-SWDIO (46)
@@ -35,9 +35,9 @@ Power LED - PA5
 - VDD
   32/19/
   
-- BOOTP (60) - pulled high 1002 resistor  
+- BOOTP (60) - pulled high R4 (1002) resistor  
   
- 
+` 
  
 This is a differnet version:
 file:///home/dan/Downloads/stm32f405rg.pdf
