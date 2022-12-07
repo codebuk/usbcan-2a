@@ -5,6 +5,7 @@ There are different hardware versions.
 I have a V10 (possibly V1.0)
 - stm32f405rgt6
 - ![image](https://user-images.githubusercontent.com/202906/206101957-122900dd-355b-4a2c-a94b-1589caf2a225.png)
+![20221205_135431](https://user-images.githubusercontent.com/202906/206123658-cdc6560a-6f11-4b73-b314-c40d167faf52.jpg)
 
 Power LED - PA5 
 
@@ -30,6 +31,11 @@ Power LED - PA5
   3 NRST (7)
   4 VDD 3.3V (48) 
   5 GND
+  
+- VDD
+  32/19/
+  
+- BOOTP (60) - pulled high 1002 resistor  
   
  
  
