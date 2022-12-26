@@ -28,11 +28,11 @@ I have a V10 (possibly V1.0)
   2  PB7 (59)
   
 - 5 Pin header 
-  1 JTMS-SWDIO (46)
-  2 JTCK-SWCLK (49) 
-  3 NRST (7)
-  4 VDD 3.3V (48) 
-  5 GND
+    1 JTMS-SWDIO (46)
+    2 JTCK-SWCLK (49) 
+    3 NRST (7)
+    4 VDD 3.3V (48) 
+    5 GND
   
 - VDD
   32/19/
