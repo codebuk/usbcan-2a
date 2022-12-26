@@ -9,19 +9,22 @@ I have a V10 (possibly V1.0)
 
 
 
-  Power LED - PA5 
+  Power LED - PA5 to VDD via 1K  
 
   - CAN1
     CAN1_RX  PB8(61) 
     CAN1_TX  PB9(62)
-
+    CAN1_LED PC14 (3) to VDD via 1K  
+ 
   - CAN2
     CAN2_RX  PB12(33)   
     CAN2_TX  PB13(34)  
+    CAN2_LED PC13 (2) to VDD via 1K  
 
   - USB   
     OTG_HS_DM (35)
     OTG_HS_DP (36)
+    
 
 - 2 pin header
   1  PB6 (58)
@@ -32,8 +35,8 @@ I have a V10 (possibly V1.0)
     1 JTMS-SWDIO (46)
     2 JTCK-SWCLK (49) 
     3 NRST (7)
-    4 VDD 3.3V (48) 
-    5 GND
+    4 VDD 3.3V (48,64) 
+    5 GND (12) VSSA 
 ``` 
 - VDD
   32/19/
