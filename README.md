@@ -53,3 +53,11 @@ BOOT0 - to 5V via 1002?
 
 ![Canbox_pinout](https://user-images.githubusercontent.com/202906/206101834-f6d3da47-ff25-47eb-8c5c-5ccb53f401a9.png)
 
+Fedora STMCube 
+
+```
+cd  /usr/lib64/
+sudo ln -s libncurses.so.6 libncurses.so.5
+sudo ln -s libtinfo.so.6 libtinfo.so.5
+```
+
