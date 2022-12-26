@@ -27,7 +27,7 @@ I have a V10 (possibly V1.0)
   1  PB6 (58)
   2  PB7 (59)
   
-- 5 Pin header 
+5 Pin header 
     1 JTMS-SWDIO (46)
     2 JTCK-SWCLK (49) 
     3 NRST (7)
