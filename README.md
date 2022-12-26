@@ -7,7 +7,7 @@ I have a V10 (possibly V1.0)
 - ![image](https://user-images.githubusercontent.com/202906/206101957-122900dd-355b-4a2c-a94b-1589caf2a225.png)
 ![20221205_135431](https://user-images.githubusercontent.com/202906/206123658-cdc6560a-6f11-4b73-b314-c40d167faf52.jpg)
 
-
+```
 
   Power LED - PA5 to VDD via 1K  
 
@@ -26,12 +26,11 @@ I have a V10 (possibly V1.0)
     OTG_HS_DP (36)
     
 
-- 2 pin header
+2 pin header
   1  PB6 (58)
   2  PB7 (59)
   
 5 Pin header 
-```
     1 JTMS-SWDIO (46)
     2 JTCK-SWCLK (49) 
     3 NRST (7)
